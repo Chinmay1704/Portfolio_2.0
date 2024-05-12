@@ -2,7 +2,7 @@
     {
         "title":"Weather App using ReactJs",
         "description": "Displays real-time weather using API integration.",
-        "image": "/src/assets/weather_app.png",
+        "image": "https://s3-alpha.figma.com/hub/file/3863763275/43bb9a44-3863-4ff2-ad24-a2de0a50d129-cover.png",
         "tech": ["HTML", "CSS", "JS", "React JS", "API"],
         "Github_Link": "https://github.com/Chinmay1704/Weather_App_React"
     },
@@ -10,7 +10,7 @@
     {
         "title":"Shoppers E-store",
         "description": "A minimalist React eCommerce site with 3 tabs showcasing products, cart functionality, and order confirmation.",
-        "image": "/src/assets/ecommerce.png",
+        "image": "https://www.inspirenetworks.in/web/image/8486-1f6c8fde/WhatsApp%20Image%202023-02-07%20at%206.15.50%20PM%20(2).jpeg",
         "tech": ["HTML", "CSS", "JS", "React JS", "API"],
         "Github_Link": "https://github.com/Chinmay1704/Shoppers_E-commerce_React"
     },
@@ -18,7 +18,7 @@
     {
         "title":"ApnaMakaan Website",
         "description": "A minimalist real estate website crafted with HTML, CSS, and Bootstrap, offering seamless property browsing and elegant design.",
-        "image": "/src/assets/makaan.png",
+        "image": "https://mir-s3-cdn-cf.behance.net/projects/404/c163ce192722933.Y3JvcCwzMDY4LDI0MDAsNjgsMA.png",
         "tech": ["HTML", "CSS", "Bootstrap"],
         "Github_Link": "https://github.com/Chinmay1704/ApnaMakkaan_website"
     },
@@ -34,9 +34,9 @@
     {
         "title":"To-do list website",
         "description": "Create tasks effortlessly with this simple HTML, CSS, JS and Bootstrap to-do list website, offering intuitive design and easy task management.",
-        "image": "/src/assets/Todo_list.png",
+        "image": "https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png",
         "tech": ["HTML", "CSS", "Bootstrap", "JS"],
-        "Github_Link": "https://github.com/Chinmay1704/Task_Manager"
+        "Github_Link": "/"
     },
 
     {

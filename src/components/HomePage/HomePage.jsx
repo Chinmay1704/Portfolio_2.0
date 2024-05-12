@@ -1,6 +1,6 @@
 import "./HomePage.css";
 import profileImg from "/src/assets/profile.png";
-import resume from "C:/Users/cpkha/OneDrive/Desktop/JOB DOCS/Resumes/Chinmay Resume_React Dev.pdf";
+import resume from "/src/assets/Chinmay_s_Resume.pdf";
 
 
 function HomePage() {
