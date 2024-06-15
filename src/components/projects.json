@@ -10,7 +10,7 @@
     {
         "title":"Shoppers E-store",
         "description": "A minimalist React eCommerce site with 3 tabs showcasing products, cart functionality, and order confirmation.",
-        "image": "https://www.inspirenetworks.in/web/image/8486-1f6c8fde/WhatsApp%20Image%202023-02-07%20at%206.15.50%20PM%20(2).jpeg",
+        "image": "../src/assets/ecommerce.png",
         "tech": ["HTML", "CSS", "JS", "React JS", "API"],
         "Github_Link": "https://github.com/Chinmay1704/Shoppers_E-commerce_React"
     },
